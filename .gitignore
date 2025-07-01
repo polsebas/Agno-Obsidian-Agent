@@ -1,0 +1,6 @@
+IntelliAI/memory.db
+IntelliAI/agents/__pycache__/*
+IntelliAI/infrastructure/__pycache__/*
+IntelliAI/application/__pycache__/*
+IntelliAI/memory/__pycache__/*
+IntelliAI/domain/__pycache__/*
